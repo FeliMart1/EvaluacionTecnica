@@ -1,0 +1,11 @@
+{
+  "user1@example.com": [
+    {
+      "id": 12345,
+      "title": "Batman Begins",
+      "overview": "Historia del origen de Batman...",
+      "release_date": "2005-06-15",
+      "addedAt": "2025-04-01T16:52:04.859Z"
+    }
+  ]
+}
