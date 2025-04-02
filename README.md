@@ -34,6 +34,7 @@ El servidor se ejecutará en `http://localhost:3001`
 ### 🔑 Autenticación
 | Método | Endpoint        | Descripción |
 |--------|---------------|-------------|
+| POST   | `/api/auth/register` | Registrar usuario. |
 | POST   | `/api/auth/login` | Iniciar sesión y obtener token JWT. |
 | POST   | `/api/auth/logout` | Cerrar sesión e invalidar el token. |
 
